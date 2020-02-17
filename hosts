@@ -8,6 +8,7 @@
 0.0.0.0 agnes.www.letv.com
 0.0.0.0 agnes.www.leyingtt.com
 0.0.0.0 agneshome.www.letv.com
+0.0.0.0 alarmclock.scloud.letv.com
 0.0.0.0 api.hdtv.letv.com
 0.0.0.0 api.itv.letv.com
 0.0.0.0 api.zhifu.letv.com
@@ -56,9 +57,12 @@
 0.0.0.0 sync.letv.com
 0.0.0.0 sync.scloud.letv.com
 0.0.0.0 theme.scloud.letv.com
+0.0.0.0 theme.scloud.lfengmobile.com
 0.0.0.0 usercenter.letv.com
 0.0.0.0 usercenter.scloud.letv.com
 0.0.0.0 upgrade.itv.letv.com
+0.0.0.0 upgrade.scloud.lfengmobile.com
+0.0.0.0 update.sdk.jiguang.cn
 0.0.0.0 vcall-scloud.cp21.ott.cibntv.net
 0.0.0.0 voice.go.letv.com
 0.0.0.0 wallet.scloud.letv.com
@@ -88,3 +92,4 @@
 0.0.0.0 alog.umeng.com
 0.0.0.0 alog.umengcloud.com
 0.0.0.0 applog.uc.cn
+0.0.0.0 uop.umeng.com
