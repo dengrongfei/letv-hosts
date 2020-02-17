@@ -62,7 +62,6 @@
 0.0.0.0 usercenter.scloud.letv.com
 0.0.0.0 upgrade.itv.letv.com
 0.0.0.0 upgrade.scloud.lfengmobile.com
-0.0.0.0 update.sdk.jiguang.cn
 0.0.0.0 vcall-scloud.cp21.ott.cibntv.net
 0.0.0.0 voice.go.letv.com
 0.0.0.0 wallet.scloud.letv.com
@@ -93,3 +92,4 @@
 0.0.0.0 alog.umengcloud.com
 0.0.0.0 applog.uc.cn
 0.0.0.0 uop.umeng.com
+0.0.0.0 update.sdk.jiguang.cn
