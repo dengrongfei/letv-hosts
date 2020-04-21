@@ -107,6 +107,9 @@
 0.0.0.0 ugamesdk.9game.cn
 0.0.0.0 mepodownload.mediatek.com
 0.0.0.0 mediatek.com
+0.0.0.0 android.bugly.qq.com
+0.0.0.0 push.scloud.lfengmobile.com
+0.0.0.0 dnm.scloud.lfengmobile.com
 ---下面是追踪统计之类的域名，不需要可以自己删除---
 0.0.0.0 alog.umeng.com
 0.0.0.0 alog.umengcloud.com
